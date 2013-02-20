@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1350121547 source:c:\users\administrator\desktop\acm\poj\poj1095\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cmath>
+	<map>
+	<list>
+	<vector>
+	<string>
+

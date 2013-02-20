@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1355127821 source:c:\users\administrator\desktop\acm\poj\create_d\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+
+1355128343 source:c:\users\administrator\desktop\acm\poj\ËÑË÷\poj1077create_d\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+

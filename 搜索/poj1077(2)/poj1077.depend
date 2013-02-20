@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1355189700 source:c:\users\administrator\desktop\acm\poj\ËÑË÷\poj1077(2)\main.cpp
+	<cstdio>
+	<string.h>
+	<queue>
+	<stack>
+	<ctime>
+

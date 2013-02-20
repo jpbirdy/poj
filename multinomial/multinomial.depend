@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1354611151 source:c:\users\administrator\desktop\acm\poj\multinomial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cmath>
+	<map>
+	<list>
+	<vector>
+	<string>
+	<algorithm>
+

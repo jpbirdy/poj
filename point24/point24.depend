@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1361345250 source:c:\users\administrator\desktop\acm\poj\point24\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<cstdlib>
+	<map>
+

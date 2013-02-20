@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1354604847 source:c:\users\administrator\desktop\acm\poj\max_tree_width\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cmath>
+	<map>
+	<list>
+	<vector>
+	<string>
+

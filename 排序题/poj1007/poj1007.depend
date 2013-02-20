@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1346738109 source:c:\users\administrator\desktop\acm\poj\poj1007\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<cstdio>
+
