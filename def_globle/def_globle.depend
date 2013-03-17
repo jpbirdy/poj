@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1362108522 source:c:\users\administrator\desktop\acm\poj\def_globle\main.cpp
+	<stdio.h>
+	"def.h"
+	"two.h"
+
+1362108351 source:c:\users\administrator\desktop\acm\poj\def_globle\two.c
+	"def.h"
+
+1362108535 c:\users\administrator\desktop\acm\poj\def_globle\def.h
+
+1362108458 source:c:\users\administrator\desktop\acm\poj\def_globle\def.c
+	"def.h"
+
+1362108515 c:\users\administrator\desktop\acm\poj\def_globle\two.h
+
+1362108656 source:c:\users\administrator\desktop\acm\poj\def_globle\test.c
+	<stdio.h>
+	"def.h"
+	"two.h"
+
