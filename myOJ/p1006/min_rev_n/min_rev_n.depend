@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1370091468 source:c:\users\jpbirdy\desktop\acm\poj\min_rev_n\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<queue>
+	<stack>
+	<algorithm>
+

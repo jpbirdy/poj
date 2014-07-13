@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1369916093 source:c:\users\jpbirdy\desktop\acm\poj\num_to_yuan\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cmath>
+	<map>
+	<list>
+	<vector>
+	<string>
+
+1372753560 source:c:\users\jpbirdy\desktop\acm\poj\myoj\p1003\num_to_yuan\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<cmath>
+	<map>
+	<list>
+	<vector>
+	<string>
+

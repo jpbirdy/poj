@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1363311170 source:c:\users\administrator\desktop\acm\poj\srm573_1_2\main.cpp
+	<vector>
+	<list>
+	<map>
+	<set>
+	<deque>
+	<stack>
+	<bitset>
+	<algorithm>
+	<functional>
+	<numeric>
+	<utility>
+	<sstream>
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1364226895 source:c:\users\administrator\desktop\acm\poj\srm574_1_2\main.cpp
+	<vector>
+	<list>
+	<map>
+	<set>
+	<deque>
+	<stack>
+	<bitset>
+	<algorithm>
+	<functional>
+	<numeric>
+	<utility>
+	<sstream>
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<queue>
+

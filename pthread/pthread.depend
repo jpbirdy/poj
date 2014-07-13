@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1380818449 source:c:\users\administrator\desktop\acm\poj\pthread\main.c
+	<stdio.h>
+	<pthread.h>
+	<windows.h>
+

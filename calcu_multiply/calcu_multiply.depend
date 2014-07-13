@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1373518616 source:c:\users\jpbirdy\desktop\acm\poj\calcu_multiply\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<queue>
+	<stack>
+	<algorithm>
+

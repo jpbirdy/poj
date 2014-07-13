@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1370840719 source:c:\users\jpbirdy\desktop\acm\poj\bg_buttle\main.cpp
+	<iostream>
+	<queue>
+	<cstring>
+	<cstdio>
+	<algorithm>
+

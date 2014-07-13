@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1388494762 source:c:\users\administrator\desktop\acm\poj\offset\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+

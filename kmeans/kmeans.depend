@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1376980880 source:c:\users\administrator\desktop\acm\poj\kmeans\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<math.h>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<cstring>
+

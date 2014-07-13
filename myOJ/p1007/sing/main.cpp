@@ -1,0 +1,71 @@
+#include <cstdio>
+#include <cstdlib>
+#include <cstring>
+
+using namespace std;
+
+int calcu_out_num(char * str)
+{
+	int a[110];
+	int dp1[110];
+	int dp2[110];
+	int n = 0;
+
+	int res = 1;
+
+	while(sscanf(str,"%d",a+n)==1)
+	{
+		n++;
+		str+=3;
+		while((*str)==' ') str++;
+	}
+	memset(dp1,0,sizeof(dp1));
+	memset(dp2,0,sizeof(dp2));
+
+	int i,j;
+	dp1[0] = 1;
+	for(i=1;i<n;i++)
+	{
+		dp1[i] = 1;
+		for(j=i-1;j>=0;j--)
+		{
+			if(a[j] < a[i] && (dp1[j] +1) > dp1[i])
+				dp1[i] = dp1[j] + 1;
+		}
+	}
+
+
+	dp2[n-1] = 1;
+	for(i=n-2;i>=0;i--)
+	{
+		dp2[i] = 1;
+		for(j=i+1;j<n;j++)
+		{
+			if(a[j] < a[i] && (dp2[j] +1) > dp2[i])
+				dp2[i] = dp2[j] + 1;
+		}
+	}
+
+	for(i=0 ; i<n ; i++)
+		if((dp1[i]+dp2[i])>res)
+			res = dp1[i] + dp2[i];
+
+	return n-res+1;
+
+}
+
+int main()
+{
+    //freopen("input.txt","r",stdin);
+    //freopen("output.txt","w",stdout);
+
+
+	char str[1000];
+	int n;
+	while(scanf("%d\n",&n)==1)
+	{
+		gets(str);
+		printf("%d\n",calcu_out_num(str));
+	}
+	return 0;
+}

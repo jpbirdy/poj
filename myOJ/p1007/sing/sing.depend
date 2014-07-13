@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1370752155 source:c:\users\jpbirdy\desktop\acm\poj\sing\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+

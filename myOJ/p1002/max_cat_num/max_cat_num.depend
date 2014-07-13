@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1369911916 source:c:\users\jpbirdy\desktop\acm\poj\max_cat_num\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<queue>
+	<stack>
+	<algorithm>
+

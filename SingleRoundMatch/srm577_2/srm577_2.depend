@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1366991832 source:c:\users\administrator\desktop\acm\poj\srm577_2\main.cpp
+	<vector>
+	<list>
+	<map>
+	<set>
+	<deque>
+	<stack>
+	<bitset>
+	<algorithm>
+	<functional>
+	<numeric>
+	<utility>
+	<sstream>
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstring>
+

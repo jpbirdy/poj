@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1374731879 source:c:\users\jpbirdy\desktop\acm\poj\string_split\main.cpp
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1380715494 source:c:\users\administrator\desktop\acm\poj\fortest\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+

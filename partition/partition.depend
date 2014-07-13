@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1375773765 source:c:\users\jpbirdy\desktop\acm\poj\partition\main.cpp
+	<iostream>
+	<cstdio>
+
