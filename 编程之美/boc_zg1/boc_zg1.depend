@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1365180732 source:c:\users\administrator\desktop\acm\poj\boc_zg1\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<queue>
+	<stack>
+	<algorithm>
+
+1365180816 source:c:\users\administrator\desktop\acm\poj\±‡≥Ã÷Æ√¿\boc_zg1\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<queue>
+	<stack>
+	<algorithm>
+

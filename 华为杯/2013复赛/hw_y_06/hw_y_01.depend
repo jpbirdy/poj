@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1367633115 source:c:\users\administrator\desktop\acm\poj\hw_y_06\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<queue>
+	<stack>
+	<algorithm>
+

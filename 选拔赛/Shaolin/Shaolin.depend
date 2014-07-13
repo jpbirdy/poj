@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1376101188 source:c:\users\administrator\desktop\acm\poj\shaolin\main.cpp
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<iostream>
+

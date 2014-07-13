@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1379141972 source:c:\users\administrator\desktop\acm\poj\minimum palindrome\main.cpp
+	<iostream>
+	<cstdio>
+

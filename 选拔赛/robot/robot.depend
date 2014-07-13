@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1376119850 source:c:\users\administrator\desktop\acm\poj\robot\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<queue>
+	<stack>
+	<algorithm>
+	<iostream>
+	<cstdio>
+

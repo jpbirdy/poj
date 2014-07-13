@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1367630450 source:c:\users\administrator\desktop\acm\poj\hw_y_01\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<cstdio>
+

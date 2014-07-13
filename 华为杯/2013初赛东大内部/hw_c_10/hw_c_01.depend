@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1366708860 source:c:\users\administrator\desktop\acm\poj\hw_c_01\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1366731931 source:c:\users\administrator\desktop\acm\poj\hw_c_02\main.cpp
+	<cstring>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+
+1366733767 source:c:\users\administrator\desktop\acm\poj\hw_c_07\main.cpp
+	<cstring>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+
+1366734715 source:c:\users\administrator\desktop\acm\poj\hw_c_10\main.cpp
+	<cstring>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+

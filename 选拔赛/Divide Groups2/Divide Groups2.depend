@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1379748212 source:c:\users\administrator\desktop\acm\poj\divide groups2\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+

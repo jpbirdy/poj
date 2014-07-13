@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1379754178 source:c:\users\administrator\desktop\acm\poj\count the pairs\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<map>
+	<algorithm>
+
